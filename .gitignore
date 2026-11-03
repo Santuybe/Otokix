@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.pak
+*.pak.zip
+*.bin
+workspace/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+minui/
+
+# Config
+otokix.cfg
+otokix.log
+
+# Temp
+*.tmp
+*.temp
